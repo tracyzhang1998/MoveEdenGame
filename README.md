@@ -11,7 +11,7 @@ Have installed npm
 ## Run the App
 Execute command **`npm start`**
 
-Note: if there is error that 'react-scripts' is not recognized as an internal or external command, operable program or batch file, please execute command **`npm install react-scripts`** at first.
+Note: if there is an error that 'react-scripts' is not recognized as an internal or external command, operable program or batch file, please execute command **`npm install react-scripts`** at first.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
