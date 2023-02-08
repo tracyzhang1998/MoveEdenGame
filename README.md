@@ -8,7 +8,7 @@ This is a sample about rock-paper-scissors game with React in front-end, and inv
 ## Prerequisites
 Have installed npm
 
-## Run React App
+## Run the App
 Execute command **`npm start`**
 
 Note: if there is error that 'react-scripts' is not recognized as an internal or external command, operable program or batch file, please execute command **`npm install react-scripts`** at first.
